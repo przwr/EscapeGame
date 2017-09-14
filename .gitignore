@@ -75,4 +75,5 @@ Intermediate/*
 DerivedDataCache/*
 
 # Unreal Generated Files
-Content/StarterContent/*
+Content/StarterContent/Textures/*
+Content/StarterContent/HDRI/*
